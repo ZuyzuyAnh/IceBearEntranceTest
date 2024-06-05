@@ -6,6 +6,8 @@ Các chức năng như đã nói ở trong đề bài cùng 1 số tiện ích �
 - Xóa nhiệm vụ
 - Xóa tất cả nhiệm vụ đã đánh dấu
 - Xem chi tiết/Chỉnh sửa nhiệm vụ
-- Lọc nhiệm vụ theo ngày
+- Lọc nhiệm vụ theo ngày.
+
+  
 Em rất mong công ty có thể review code cũng như trải nghiệm bài thi của em để đưa ra những nhận xét, lời khuyên giúp em phát triển hơn trong tương lai.
 Em xin cảm ơn mọi người đã dành thời gian ạ!
